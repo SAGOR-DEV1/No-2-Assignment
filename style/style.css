@@ -139,8 +139,8 @@ nav li{
 .pic-badge{
     width: 280px;
     height: 280px;
-    margin-top:;
-    margin-left: ;
+    margin-top: 0;
+    margin-left: 0;
     
 }
 .lover-title{
@@ -212,7 +212,7 @@ nav li{
     background-image: url(../assets/deal-ana.png);
     width: 367px;
     height: 197px;
-    border-radius: 10; 
+    border-radius: 10px; 
     background-color: rgba(200, 200, 200, 1); 
     
 }
@@ -258,7 +258,7 @@ nav li{
 
 
 
-/* mobile responsive */
+/* mobile responsive  */
 @media  screen and (max-width: 576px) {
     .hidden{
         display: none;
