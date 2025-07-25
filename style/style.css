@@ -315,16 +315,6 @@ input{
     text-decoration: none;
 }
 
-
-
-
-
-
-
-
-
-
-
 /* mobile responsive */
 @media  screen and (max-width: 576px) {
     .hidden{
@@ -336,7 +326,6 @@ input{
     }
 
 
-    
     .card-container{
         grid-template-columns: repeat(2,1fr);
     }
